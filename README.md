@@ -9,10 +9,11 @@ Nama Kelompok :
 5. Mahbub Ulit Tamam  (17.02.0031)
 
 
-Change log :
+
+Log Pembaruan Project : 
 1.Branch Master 
-  galihmay (Galih mayangga) Nov 2, 2018
-  - Push dan commit Pertama 
+  galihmay (Galih mayangga) Nov 2, 2018  : 
+
 
 2.Branch Update1.1
 a. pujihartuik (Puji Hartutik)  Nov 3, 2018
