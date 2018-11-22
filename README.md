@@ -9,9 +9,6 @@ Nama Kelompok :
 5. Mahbub Ulit Tamam  (17.02.0031)
 
 
-
-Log Pembaruan Project : 
-
 1.Branch Master 
   galihmay (Galih mayangga) Nov 2, 2018  : 
 
