@@ -18,5 +18,5 @@ Change log:
   b. risqiamalia (Risqi Amalia)   Nov 3, 2018           :  Memperbarui dan commit alarm_items.xml    <br>
   c. farahmaulidia (Farah Nur Maulidia)  Nov 22, 2018   :  Memperbarui dan commit activity_main.xml   <br>
 <br><br>
-3.Branch destop-labfix <br>
-  galihmay (Galih mayangga) Nov 23, 2018                : ganti gradle menyesuaikan pc lab dan bug fix project 
+3.Branch destop-labfix2 <br>
+  galihmay (Galih mayangga) Des 5, 2018                : ganti gradle menyesuaikan pc lab dan tambah category di activity_add_reminder.xml
