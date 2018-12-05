@@ -151,6 +151,44 @@
 
             <!-- /time -->
 
+            <!-- category -->
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:id="@+id/layout_category"
+                android:clickable="true"
+                android:onClick="selectcategory"
+                android:background="?android:attr/selectableItemBackground"
+                android:layout_height="72dp"
+                tools:ignore="OnClick">
+
+                <TextView
+                    android:id="@+id/category"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:padding="15dp"
+                    android:text="Category" />
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:orientation="vertical"
+                    android:layout_centerVertical="true"
+                    android:layout_toRightOf="@id/category"
+                    android:layout_height="wrap_content">
+
+                    <Spinner
+                        android:id="@+id/select_category"
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:entries="@array/select_category"
+                        android:layout_marginBottom="20dp"
+                        android:layout_marginLeft="8dp"
+                        android:layout_marginRight="8dp"/>
+
+                </LinearLayout>
+
+            </RelativeLayout>
+
+            <!-- /category -->
 
         </LinearLayout>
 
